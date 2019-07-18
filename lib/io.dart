@@ -5,7 +5,7 @@
 library web_socket_channel.io;
 
 import 'dart:async';
-import 'dart:io';
+import 'package:flutter_web/io.dart';
 
 import 'package:async/async.dart';
 import 'package:stream_channel/stream_channel.dart';
